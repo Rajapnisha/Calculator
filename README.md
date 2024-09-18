@@ -13,7 +13,7 @@ Controls / Functionality:
 *Last operation will show up above the input box every time any of the operators is selected.
 
 
-       ![image Alt](https://github.com/Rajapnisha/Calculator/blob/74c2e7d1b7817b6bcabac9eb2096fd7262fe6917/calculator-loading.gif)
+       ![image Alt](https://github.com/Rajapnisha/Calculator/blob/8d24c2e581a49a0d8dd9a499631c10759e498c8c/calculator-loading.gif)
 
 
 
