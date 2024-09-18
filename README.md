@@ -13,5 +13,5 @@ Controls / Functionality:
 *Last operation will show up above the input box every time any of the operators is selected.
 
 
-             ![Calculator-loading](https://github.com/Rajapnisha/Calculator/blob/8d24c2e581a49a0d8dd9a499631c10759e498c8c/calculator-loading.gif)
+             ![image Alt](https://github.com/Rajapnisha/Calculator/blob/a16bb1cb04761d84e42b53572cddf4b0518d51f4/calculator-loading.gif)
 
