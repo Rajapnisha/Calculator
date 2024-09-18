@@ -14,6 +14,8 @@ Controls / Functionality:
 
 
        ![image Alt](https://github.com/Rajapnisha/Calculator/blob/74c2e7d1b7817b6bcabac9eb2096fd7262fe6917/calculator-loading.gif)
+       ![image Alt](https://raw.githubusercontent.com/Rajapnisha/Calculator/74c2e7d1b7817b6bcabac9eb2096fd7262fe6917/calculator-loading.gif)
+
 
 
 
