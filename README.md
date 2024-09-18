@@ -13,5 +13,5 @@ Controls / Functionality:
 *Last operation will show up above the input box every time any of the operators is selected.
 
 
-             ![Calculator Loading](./calculator-loading.gif)
+             ![Calculator loading](calculator-loading.gif)
 
